@@ -1,4 +1,4 @@
-package pwa
+package pwa_lib
 
 func ReverseString(s string) string{
 	r := []rune(s)
